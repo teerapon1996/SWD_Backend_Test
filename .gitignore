@@ -1,0 +1,10 @@
+# python
+*.pyc
+**__pycache__/
+
+# js
+**.Trash-0/
+
+# mac
+.DS_Store
+.vscode/
